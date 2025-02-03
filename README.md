@@ -2,20 +2,6 @@
 
 Bright is a web application that helps you simplify your finances by paying off credit cards with a single monthly payment. It is affordable, secure, and fast!
 
-## Features
-
-- **Credit Line**: Get a credit line of up to $8,000.
-- **No Impact on Credit Score**: Checking rates does not impact your credit score.
-- **Quick Sign-Up**: Sign up in just 2 minutes.
-- **Secure**: 100% data security with 256-bit encryption.
-- **Accepts All Major Bank Cards**: Refinance multiple cards up to your credit limit.
-
-## How to Use
-
-1. **Download the App**: Download the app and check the rates.
-2. **Get the Credit Line**: Get the credit line and choose which cards to pay.
-3. **Make Payments**: Make on-time payments and defeat debt.
-
 ## Installation
 
 To run this project locally:
