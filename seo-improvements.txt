@@ -1,0 +1,5 @@
+Additional SEO Enhancements:
+1. Add more keyword-rich content to improve ranking.
+2. Use compressed images (WebP format) for faster load time.
+3. Implement lazy-loading for images to improve performance.
+4. Add more structured data (FAQ Schema) for better SERP results.
