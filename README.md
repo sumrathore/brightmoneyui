@@ -22,11 +22,3 @@ To run this project locally:
 2. Use compressed images (WebP format) for faster load time.
 3. Implement lazy-loading for images to improve performance.
 4. Add more structured data (FAQ Schema) for better SERP results.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any inquiries, please contact us at [support@bright.com](mailto:support@bright.com).
